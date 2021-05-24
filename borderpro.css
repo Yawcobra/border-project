@@ -1,0 +1,52 @@
+.firstcontainer{
+	background-color: blue;
+	height: 7em;
+	width: 60em;
+	
+}
+.secondcontainer{
+	background-color: blue;
+	height: 12em;
+	width: 60em;
+	margin-top: 3em;
+}
+.thirdcontainer{
+	background-color: white;
+	height: 15em;
+	width: 60em;
+
+}
+.fourthcontainer{
+	background-color: blue;
+	height: 7em;
+	width: 60em;
+}
+.fb{
+	background-color: blue;
+	height: 13em;
+	width: 15em;
+	float: right;
+	margin-top: 0em;
+	margin-right: 28em;
+}
+.sb{
+	height: 13em;
+	width: 15em;
+	margin-top: 3em;
+	background-color: blue;
+	margin-left:40em;
+}
+.tb{
+	height: 13em;
+	width: 15em;
+	margin-top: 0em;
+	background-color: blue;
+	margin-top: -13em;
+
+}
+.fithcontainer{
+	background-color: blue;
+	height: 20em;
+	width: 22em;
+	float: right;
+}
